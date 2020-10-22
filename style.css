@@ -1,0 +1,45 @@
+html {
+    background-color:antiquewhite;
+}
+
+body{
+    font-family:'Times New Roman', Times, serif;
+    margin:30px;
+    padding:20px;
+    color:#000000;
+    border-top:10px solid #000000;
+    background:antiquewhite;
+}
+h1 {
+    font-size: 3em;
+}
+bio1 {
+    font-size: 4em;
+    background:#ffd800;
+}
+p {
+    line-height:1.4em;
+    margin:50px;
+}
+#BLOG1 {
+    border-top: 2px solid antiquewhite;
+    line-height:2.5em;
+}
+.Section-one {
+    background:#b6ff00;
+}
+h2 {
+    font-size: 1em;
+    margin: 35px;
+}
+article {
+    margin:35px;
+
+}
+.BLOGTWO {
+    border-bottom: 1px dotted #ffffff
+}
+
+footer {
+    background:#b6ff00
+}
